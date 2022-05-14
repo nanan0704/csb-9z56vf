@@ -1,0 +1,9 @@
+{
+  "NETWORK_ID": 56,
+  "CONTRACT_ADDRESS": "0xABd6d6c63370835DcebE9187A7D41e649613B896",
+  "BSCSCAN": "https://www.bscscan.com/address/0xABd6d6c63370835DcebE9187A7D41e649613B896",
+  "TWITTER": "https://twitter.com/BNBFarmOffical",
+  "TELEGRAM": "https://t.me/bnbfarmchat",
+  "WP": "./static/media/wp.pdf",
+  "AUDIT": "./static/media/audit.pdf"
+}
